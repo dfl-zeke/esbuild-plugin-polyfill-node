@@ -174,7 +174,7 @@ var npmPolyfillMap = {
   _stream_transform: "readable-stream/lib/_stream_transform.js",
   _stream_writable: "readable-stream/lib/_stream_writable.js",
   assert: "assert/build/assert.js",
-  buffer: "buffer-es6/index.js",
+  buffer: "buffer/index.js",
   console: "console-browserify/index.js",
   crypto: "crypto-browserify/index.js",
   domain: "domain-browser/source/index.js",
